@@ -1,0 +1,10 @@
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\bin\Debug\Finals.exe.config
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\bin\Debug\Finals.exe
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\bin\Debug\Finals.pdb
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\delta_to_wye.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\Finals.Form1.resources
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\Finals.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\delta_to_wye.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\delta_to_wye.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\Finals.exe
+C:\Users\Andrei\source\repos\Alimboyao_Final Exam in Elective 1 (lab)\Delta-to-Wye Converter\Finals\obj\Debug\Finals.pdb

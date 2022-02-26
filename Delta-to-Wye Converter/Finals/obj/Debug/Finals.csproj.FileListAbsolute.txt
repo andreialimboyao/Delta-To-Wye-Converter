@@ -1,0 +1,10 @@
+C:\Users\Andrei\source\repos\Finals\Finals\bin\Debug\Finals.exe.config
+C:\Users\Andrei\source\repos\Finals\Finals\bin\Debug\Finals.exe
+C:\Users\Andrei\source\repos\Finals\Finals\bin\Debug\Finals.pdb
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.Form1.resources
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.Properties.Resources.resources
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.csproj.GenerateResource.cache
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.exe
+C:\Users\Andrei\source\repos\Finals\Finals\obj\Debug\Finals.pdb
